@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**132 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**133 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&field=science_health&utm_source=github&utm_medium=readme&utm_campaign=science-health)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
@@ -10,7 +10,7 @@
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 77 | 8 |
-| [Healthcare](#healthcare) | 55 | 11 |
+| [Healthcare](#healthcare) | 56 | 12 |
 
 Also see the lists for [every field](https://github.com/coawp-com/Canadian-Internships-2027), [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -102,10 +102,11 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ## Healthcare
 
-<sub>55 open roles</sub>
+<sub>56 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 14 | [Apply ↗](https://coawp.com/go/8e844c06-c9a4-4547-8aa8-5a1e0da6d562?from=github-science-health) |
 | **Oak Valley Health** | Clinical Extern – Inpatient Med/​Surg, Intern | Uxbridge, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/d9bd7d77-b2c5-4deb-b22d-3699b61e09c5?from=github-science-health) |
 | ↳ | Registered Practical Nurse – Admissions Assessment Unit, Student | Markham, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/177d24e7-b549-462e-b609-ec0eed0e1b6e?from=github-science-health) |
 | ↳ | Registered Practical Nurse – Post Partum, Student | Markham, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/7182368b-6040-4a95-bc96-2e0131217ccb?from=github-science-health) |
