@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**160 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**161 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 100 | 10 |
+| [Science & Research](#science--research) | 101 | 10 |
 | [Healthcare](#healthcare) | 60 | 12 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>100 open roles</sub>
+<sub>101 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -37,6 +37,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Federated Co-op Retail** | Ag, Intern | Manitoba | Summer 2027<br><sub>4 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/cd5c374a-b118-4536-8524-23f3426365fd?from=github-science-health) |
 | **Dillon Consulting** | Environmental, Intern | Fredericton, NB | 4 or 8 months | Nov 8 | [Apply ↗](https://coawp.com/go/74f9fe17-a06c-4d92-a832-ac40aa9cd606?from=github-science-health) |
 | **BASF** | Agronomic Excellence Summer Associate | Swift Current, SK | Summer 2027<br><sub>4 or 6 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/8b61d777-29cf-485a-b05a-08bf8d4daf93?from=github-science-health) |
+| ↳ | Canola Breeding Summer Associate | Saskatoon, SK | Summer 2027<br><sub>4 or 6 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/a0105343-0521-4978-b27b-1cc29903e34a?from=github-science-health) |
 | ↳ | Canola Parent Seed Summer Associate | Kamloops, BC | Summer 2027<br><sub>4 or 6 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/5760e85f-ccc8-4260-8b06-80df7f3af265?from=github-science-health) |
 | ↳ | Precision Technology Summer Associate | Saskatoon, SK | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/d5cb515b-87ff-42fc-8eb4-67d5f330f42f?from=github-science-health) |
 | **Growcer** | Research Technician, Intern | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/cabe62a6-5e06-4d4e-a874-f24c179e089a?from=github-science-health) |
