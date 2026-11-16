@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**133 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**134 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&field=science_health&utm_source=github&utm_medium=readme&utm_campaign=science-health)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
@@ -10,7 +10,7 @@
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 77 | 8 |
-| [Healthcare](#healthcare) | 56 | 12 |
+| [Healthcare](#healthcare) | 57 | 12 |
 
 Also see the lists for [every field](https://github.com/coawp-com/Canadian-Internships-2027), [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -102,7 +102,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ## Healthcare
 
-<sub>56 open roles</sub>
+<sub>57 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -162,6 +162,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 | ↳ | Pharmacy, Intern | Marystown, NL | — | Jul 2 | [Apply ↗](https://coawp.com/go/197b5b39-07c3-4daf-b6c5-33d3bf02f632?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Emergency, Student | Markham, ON | Summer 2027 | Jun 18 | [Apply ↗](https://coawp.com/go/87d2dd6f-6434-471c-9f48-7d1627daa153?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Newfoundland and Labrador | — | Jun 17 | [Apply ↗](https://coawp.com/go/95f5b598-1ae9-4ac4-ab92-0b44116e17f7?from=github-science-health) |
+| **Humber River Health** | Student Nurse Extern | Toronto, ON | — | Jun 15 | [Apply ↗](https://coawp.com/go/d7dfbd6d-2ae4-4ecd-a6d1-91d9f4d23c1d?from=github-science-health) |
 
 <p align="right"><sub><a href="#canadian-science--health-internships-2027">Back to top</a></sub></p>
 
