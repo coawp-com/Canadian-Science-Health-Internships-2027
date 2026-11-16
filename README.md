@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**165 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**164 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 102 | 13 |
-| [Healthcare](#healthcare) | 63 | 15 |
+| [Healthcare](#healthcare) | 62 | 15 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -129,7 +129,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>63 open roles</sub>
+<sub>62 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -172,7 +172,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Sobeys** | Pharmacy, Intern | Winnipeg, MB | — | Oct 27 | [Apply ↗](https://coawp.com/go/6e8cb9d2-818f-44c8-8bfc-d524f6141b6d?from=github-science-health) |
 | **Alcoa** | Industrial Hygiene, Intern | Baie-Comeau, QC | Winter 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/51c57090-0509-44ff-8733-d97f345cad4b?from=github-science-health) |
 | **Humber River Health** | Student Nurse Extern – Critical Care | Toronto, ON | — | Oct 22 | [Apply ↗](https://coawp.com/go/482d438f-faa1-4c0f-85b2-57cdda387314?from=github-science-health) |
-| **Biogen** | Medical Affairs, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>12 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/147aa493-12ee-4fbb-add0-f56fb37085f0?from=github-science-health) |
 | **Providence Health Care** | Employed Student Nurse /​ Employed Student Psychiatric Nurse | Vancouver, BC | — | Oct 15 | [Apply ↗](https://coawp.com/go/cb9f714d-8b46-4138-ab43-1d04a2a877d6?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Moncton, NB | — | Oct 14 | [Apply ↗](https://coawp.com/go/bf1f339e-e161-46c1-9c9b-0fccd461ef7d?from=github-science-health) |
 | ↳ | Pharmacy, Intern | Canada | — | Oct 14 | [Apply ↗](https://coawp.com/go/ee8ee677-01db-4060-b8d9-6e231acb53c8?from=github-science-health) |
