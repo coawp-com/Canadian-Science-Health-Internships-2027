@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**161 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**160 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 101 | 10 |
+| [Science & Research](#science--research) | 100 | 10 |
 | [Healthcare](#healthcare) | 60 | 12 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>101 open roles</sub>
+<sub>100 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -79,7 +79,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Nutrien** | Laboratory, Intern | Saskatoon, SK | — | Oct 21 | [Apply ↗](https://coawp.com/go/ce3158ff-fb30-4536-8add-dcc71201cc8c?from=github-science-health) |
 | ↳ | Retail Field – Agronomy Assistant, Intern | Coaldale, AB | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/88928170-6442-4490-8037-3e8d5dbaf3f4?from=github-science-health) |
 | **Groupe Marcelle** | Research and Development, Intern | Mont-Royal, QC | 8 or 12 months | Oct 21 | [Apply ↗](https://coawp.com/go/ed79a7b3-1a3b-404e-93e1-5fb3733d3a80?from=github-science-health) |
-| **CIBC** | AI and Quantum Scientist, Co-op | Toronto, ON | 4 months | Oct 20 | [Apply ↗](https://coawp.com/go/1fafb61b-0539-408a-bc2c-e0155d199425?from=github-science-health) |
 | **Nutrien** | Retail Field – Agronomy Assistant, Intern | Melfort, SK | Summer 2027<br><sub>4 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/c28c3076-b7a9-4938-a0a8-0078e67a00c0?from=github-science-health) |
 | **Bombardier** | Computational Aerodynamics – Advanced Aerodynamics, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/5b1298f8-33c2-48a4-8c5b-de1ee961970e?from=github-science-health) |
 | **Thermo Fisher** | Process Engineering, Co-op | Mississauga, ON | — | Oct 18 | [Apply ↗](https://coawp.com/go/06e1f84e-405d-48eb-9bf9-917a0a9ed2cb?from=github-science-health) |
