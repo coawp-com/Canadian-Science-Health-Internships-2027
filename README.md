@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**161 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**165 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,17 +11,20 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 100 | 10 |
-| [Healthcare](#healthcare) | 61 | 13 |
+| [Science & Research](#science--research) | 102 | 13 |
+| [Healthcare](#healthcare) | 63 | 15 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>100 open roles</sub>
+<sub>102 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Fleetway** | Geological, Intern | Saint John, NB | — | Nov 16 | [Apply ↗](https://coawp.com/go/2728246d-14cf-4c53-ba65-f0e617eb0794?from=github-science-health) |
+| **J.D. Irving** | Geological, Intern | Saint John, NB | — | Nov 16 | [Apply ↗](https://coawp.com/go/43cd5be4-d93a-4ca1-86c7-257e47f1efd9?from=github-science-health) |
+| **Saputo** | Dairy Specialist, Intern | Port Coquitlam, BC | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/310ba023-9a02-4392-98bb-b1ad938f0b7a?from=github-science-health) |
 | **BASF** | Agronomic Excellence, Intern | Strathmore, AB | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/3a2a46a6-5f66-4858-ab22-917703ca8d8a?from=github-science-health) |
 | ↳ | Technical Agronomy, Intern | Lethbridge, AB | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/28b8708c-43fa-48eb-8c23-4097ae8f5f65?from=github-science-health) |
 | **Nutrien** | Geophysics Support, Co-op | Saskatoon, SK | — | Nov 12 | [Apply ↗](https://coawp.com/go/37d8f946-4293-47b8-b1cf-399cde6315db?from=github-science-health) |
@@ -121,18 +124,19 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Stella-Jones** | Forestry Student, Intern | Salmon Arm, BC | Summer 2027<br><sub>4 months</sub> | Aug 18 | [Apply ↗](https://coawp.com/go/127a8985-5280-4bf8-bd04-8ce633d70751?from=github-science-health) |
 | **Canadian Natural Resources** | Environmental – Aquatic & Wildlife, Intern | Fort McMurray, AB | Summer 2027<br><sub>8 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/9a1863d5-f429-44d1-a85c-b245dd0925b9?from=github-science-health) |
 | ↳ | Environmental – Reclamation, Intern | Calgary, AB | 4 or 8 months | Aug 17 | [Apply ↗](https://coawp.com/go/e76829fd-28a5-49be-8399-784c4ce70584?from=github-science-health) |
-| ↳ | Environmental Reclamation – Oil Sands, Intern | Fort McMurray, AB | Summer 2027<br><sub>8 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/b3cc1fb4-4f49-47b0-8c1b-09f7e11b379f?from=github-science-health) |
 
 <p align="right"><sub><a href="#canadian-science--health-internships-2027">Back to top</a></sub></p>
 
 ## Healthcare
 
-<sub>61 open roles</sub>
+<sub>63 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **City of St. Thomas** | Nursing, Intern | St. Thomas, ON | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/17fe8dc6-fb74-4286-8bf6-31c523226b82?from=github-science-health) |
 | **Oak Valley Health** | Diet Office Clerk (CUPE) – Food Services, Student | Markham, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/17b033f3-5515-466e-ae8a-908035423e7b?from=github-science-health) |
-| **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 14 | [Apply ↗](https://coawp.com/go/8e844c06-c9a4-4547-8aa8-5a1e0da6d562?from=github-science-health) |
+| **Walmart** | Retail Pharmacy, Student | Oakville, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/3fcb6e9b-74b4-4425-9675-fcc4d2e1117d?from=github-science-health) |
+| ↳ | Retail Pharmacy, Student | Canada | — | Nov 14 | [Apply ↗](https://coawp.com/go/8e844c06-c9a4-4547-8aa8-5a1e0da6d562?from=github-science-health) |
 | **Federated Co-op Retail** | Pharmacy, Co-op | Winnipeg, MB<br>Niverville, MB | — | Nov 13 | [Apply ↗](https://coawp.com/go/5a542690-af2d-4d06-8647-6793dc77aa04?from=github-science-health) |
 | **Oak Valley Health** | Clinical Extern – Inpatient Med/​Surg, Intern | Uxbridge, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/d9bd7d77-b2c5-4deb-b22d-3699b61e09c5?from=github-science-health) |
 | ↳ | Registered Practical Nurse – Admissions Assessment Unit, Student | Markham, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/177d24e7-b549-462e-b609-ec0eed0e1b6e?from=github-science-health) |
