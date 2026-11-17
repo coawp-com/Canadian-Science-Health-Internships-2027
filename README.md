@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**163 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**161 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 101 | 14 |
+| [Science & Research](#science--research) | 99 | 14 |
 | [Healthcare](#healthcare) | 62 | 15 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>101 open roles</sub>
+<sub>99 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -71,7 +71,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Fleetway** | Silviculture Assistant, Student | Chipman, NB | Summer 2027 | Oct 25 | [Apply ↗](https://coawp.com/go/a5664ca1-1296-4611-8fe9-e48df2712b1e?from=github-science-health) |
 | **AltaLink** | Summer Student – Environment | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/0b4b82d9-c260-427b-993d-9d419b38db57?from=github-science-health) |
 | **AtkinsRéalis** | Environment, Intern<br><sub>Requires French</sub> | Canada | — | Oct 25 | [Apply ↗](https://coawp.com/go/2d260eba-53ac-4d44-b551-fe830d6402e0?from=github-science-health) |
-| **Ontario Soil and Crop Improvement Association** | Agricultural Climate Modelling, Intern | Guelph, ON<br><sub>Hybrid</sub> | Winter 2027 | Oct 24 | [Apply ↗](https://coawp.com/go/9bc12ba9-b48b-4d92-ba90-a4bbb75be48e?from=github-science-health) |
 | **Simplot** | Ag Innovation, Intern | Alberta | — | Oct 23 | [Apply ↗](https://coawp.com/go/b92fbc99-11fe-4fea-99b6-16509e1fa25e?from=github-science-health) |
 | ↳ | Agronomist, Intern | Saskatchewan | — | Oct 23 | [Apply ↗](https://coawp.com/go/f0f6569e-944d-4b91-b869-987bbad2a25b?from=github-science-health) |
 | ↳ | Agronomist, Intern | Saskatchewan | — | Oct 23 | [Apply ↗](https://coawp.com/go/8e252c3a-f92a-4740-ba69-a23049de343a?from=github-science-health) |
@@ -118,7 +117,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Dahrouge Geological Consulting** | Geologist-in-Training, Intern | Montréal, QC | — | Sep 8 | [Apply ↗](https://coawp.com/go/8f82efb9-7160-43a4-8486-5501c354cbc9?from=github-science-health) |
 | **Syngenta** | Seed Agronomic, Intern | Toronto, ON | Winter 2027<br><sub>5 months</sub> | Sep 8 | [Apply ↗](https://coawp.com/go/71328052-9e38-4367-b63a-42952d24273c?from=github-science-health) |
 | **Canadian Natural Resources** | Geology – Abandonments, Intern | Calgary, AB | Winter 2027<br><sub>8 months</sub> | Sep 1 | [Apply ↗](https://coawp.com/go/5daf5330-c5cf-44d4-ba54-c0c4bcc38e2f?from=github-science-health) |
-| **NexGold Mining (Treasury Metals)** | Environmental Technician, Co-op | Nova Scotia | Winter 2027<br><sub>4 or 8 months</sub> | Aug 31 | [Apply ↗](https://coawp.com/go/71443291-2123-4b13-b05c-6cf415611054?from=github-science-health) |
 | **West Fraser** | Forestry, Intern | Alberta<br>Chetwynd, BC<br><sub>+7 more</sub> | Summer 2027<br><sub>4, 8 or 12 months</sub> | Aug 19 | [Apply ↗](https://coawp.com/go/3377bd0d-f279-4d99-affd-9d01a7418858?from=github-science-health) |
 | **Stella-Jones** | Forestry Student, Intern | Salmon Arm, BC | Summer 2027<br><sub>4 months</sub> | Aug 18 | [Apply ↗](https://coawp.com/go/127a8985-5280-4bf8-bd04-8ce633d70751?from=github-science-health) |
 | **Canadian Natural Resources** | Environmental – Aquatic & Wildlife, Intern | Fort McMurray, AB | Summer 2027<br><sub>8 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/9a1863d5-f429-44d1-a85c-b245dd0925b9?from=github-science-health) |
