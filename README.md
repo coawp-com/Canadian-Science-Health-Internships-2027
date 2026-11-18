@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 96 | 12 |
+| [Science & Research](#science--research) | 96 | 13 |
 | [Healthcare](#healthcare) | 62 | 13 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
@@ -22,6 +22,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Saputo** | Laboratory Technician, Intern | Saint-Léonard, QC | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/84b6bd22-00ce-4117-bc5d-2309f5426115?from=github-science-health) |
 | **SGS** | Laboratory Technician, Co-op | Burnaby, BC | 4 or 8 months | Nov 16 | [Apply ↗](https://coawp.com/go/bc195559-603b-49a3-82e1-259253889d39?from=github-science-health) |
 | **Fleetway** | Geological, Intern | Saint John, NB | — | Nov 16 | [Apply ↗](https://coawp.com/go/2728246d-14cf-4c53-ba65-f0e617eb0794?from=github-science-health) |
 | **J.D. Irving** | Geological, Intern | Saint John, NB | — | Nov 16 | [Apply ↗](https://coawp.com/go/43cd5be4-d93a-4ca1-86c7-257e47f1efd9?from=github-science-health) |
@@ -92,7 +93,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Veolia** | Laboratory, Co-op | Sarnia, ON | Summer 2027<br><sub>8 or 12 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/86b195ee-d0a0-473e-84a3-322aaedb1218?from=github-science-health) |
 | **Elk Valley Resources** | Occupational Health & Hygiene, Co-op | Elkford, BC | Winter 2027<br><sub>4, 8 or 12 months</sub> | Oct 5 | [Apply ↗](https://coawp.com/go/d60f2272-338a-4edb-aa8f-1a189416d9dc?from=github-science-health) |
 | **Svante** | Material Characterization, Co-op | Burnaby, BC | Winter 2027<br><sub>8 months</sub> | Sep 30 | [Apply ↗](https://coawp.com/go/fbdce67c-fa3e-4dac-95a5-0029b4fe954e?from=github-science-health) |
-| **Bombardier** | Product Sustainability and Strategy, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Sep 29 | [Apply ↗](https://coawp.com/go/4f21368d-b331-46a3-8f2c-28737d2e5662?from=github-science-health) |
 | **Syngenta** | Technical Field, Intern | Winnipeg, MB | Summer 2027<br><sub>4 or 8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/6bf63eec-8ee3-48b1-840c-79fd6cec32e1?from=github-science-health) |
 | ↳ | Technical Field, Intern | Calgary, AB | Summer 2027<br><sub>4 or 8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/ab24ef53-8cc2-4ed6-889d-7ceb1dfad89c?from=github-science-health) |
 | **Analysis Group** | Research Professional – HEOR & Epidemiology, Intern | Montréal, QC<br>Toronto, ON | Summer 2027 | Sep 28 | [Apply ↗](https://coawp.com/go/3570f412-7cbe-4570-bbc7-1dcd58de0194?from=github-science-health) |
