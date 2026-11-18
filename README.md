@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**153 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**150 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 93 | 17 |
-| [Healthcare](#healthcare) | 60 | 11 |
+| [Science & Research](#science--research) | 91 | 17 |
+| [Healthcare](#healthcare) | 59 | 11 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>93 open roles</sub>
+<sub>91 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -54,7 +54,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Gorman Bros. Lumber** | Woodlands, Intern | Princeton, BC<br>West Kelowna, BC | Summer 2027<br><sub>4 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/81b04f07-f022-426d-ac5c-86d80bce1273?from=github-science-health) |
 | **Federated Co-op Retail** | Agronomist, Co-op | Melfort, SK | — | Nov 4 | [Apply ↗](https://coawp.com/go/8c25d37e-9d72-47ee-892e-a44859bbedd6?from=github-science-health) |
 | **Cyclic Materials** | Analytical Lab, Intern | Kingston, ON | 12 months | Nov 4 | [Apply ↗](https://coawp.com/go/a9c03342-285a-4e19-822b-b47370dec6dd?from=github-science-health) |
-| **Gibson Energy** | Lab Technician, Co-op | Moose Jaw, SK | Winter 2027<br><sub>12 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/188ce74c-7342-4194-a220-4cbc0e9efb4e?from=github-science-health) |
 | **Open Farm** | Pet Nutrition, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/73bbb388-221a-45fd-80aa-fc93a30e0ad4?from=github-science-health) |
 | **Nutrien** | Retail Field – Agronomy Assistant, Intern | Saskatchewan | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/36149eb4-6278-48f5-ae34-a3a371e4a9c0?from=github-science-health) |
 | ↳ | Retail Field – Agronomy Assistant, Intern | Vegreville, AB | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/04c41147-acbb-485a-8d61-4e1be8a84312?from=github-science-health) |
@@ -91,7 +90,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Nutrien** | Retail Field – Agronomy Assistant, Intern | Saskatoon, SK | Summer 2027<br><sub>4 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/95d1b16f-ec9b-47eb-a866-9d5f2a13cdd2?from=github-science-health) |
 | **Veolia** | Laboratory, Co-op | Sarnia, ON | Summer 2027<br><sub>8 or 12 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/86b195ee-d0a0-473e-84a3-322aaedb1218?from=github-science-health) |
 | **Elk Valley Resources** | Occupational Health & Hygiene, Co-op | Elkford, BC | Winter 2027<br><sub>4, 8 or 12 months</sub> | Oct 5 | [Apply ↗](https://coawp.com/go/d60f2272-338a-4edb-aa8f-1a189416d9dc?from=github-science-health) |
-| **Svante** | Material Characterization, Co-op | Burnaby, BC | Winter 2027<br><sub>8 months</sub> | Sep 30 | [Apply ↗](https://coawp.com/go/fbdce67c-fa3e-4dac-95a5-0029b4fe954e?from=github-science-health) |
 | **Syngenta** | Technical Field, Intern | Winnipeg, MB | Summer 2027<br><sub>4 or 8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/6bf63eec-8ee3-48b1-840c-79fd6cec32e1?from=github-science-health) |
 | ↳ | Technical Field, Intern | Calgary, AB | Summer 2027<br><sub>4 or 8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/ab24ef53-8cc2-4ed6-889d-7ceb1dfad89c?from=github-science-health) |
 | **Analysis Group** | Research Professional – HEOR & Epidemiology, Intern | Montréal, QC<br>Toronto, ON | Summer 2027 | Sep 28 | [Apply ↗](https://coawp.com/go/3570f412-7cbe-4570-bbc7-1dcd58de0194?from=github-science-health) |
@@ -120,7 +118,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>60 open roles</sub>
+<sub>59 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -139,8 +137,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Walmart** | Optician, Intern | Canada | — | Nov 11 | [Apply ↗](https://coawp.com/go/dad92956-0356-4f3d-9257-b54515c0dd8f?from=github-science-health) |
 | **Oak Valley Health** | Unit Secretary – Childbirth & Children's Services, Student | Markham, ON | — | Nov 10 | [Apply ↗](https://coawp.com/go/87aa7ebf-4960-41ad-9d75-08a766261922?from=github-science-health) |
 | **Walmart** | Retail Pharmacy, Student | Coquitlam, BC | — | Nov 10 | [Apply ↗](https://coawp.com/go/6a1169ae-c874-4e6b-b25e-81bbe80f6e6d?from=github-science-health) |
-| **Christian Horizons** | Direct Support Professional, Co-op | Ottawa, ON | — | Nov 9 | [Apply ↗](https://coawp.com/go/b2365820-345c-469c-ba6e-c8e5d714fe7a?from=github-science-health) |
-| **Walmart** | Retail Pharmacy, Student | Kitchener, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/6c52b0a6-272c-4884-8832-1e095b4d6a80?from=github-science-health) |
+| ↳ | Retail Pharmacy, Student | Kitchener, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/6c52b0a6-272c-4884-8832-1e095b4d6a80?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Waterdown, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/162a1b88-d1aa-4b16-8e8a-054445f94447?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Canada | — | Nov 8 | [Apply ↗](https://coawp.com/go/ef889eb4-e751-41e9-9b8a-33252d39605b?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Ontario | — | Nov 8 | [Apply ↗](https://coawp.com/go/87cd03b7-7863-4981-8d10-61e3a59a9652?from=github-science-health) |
