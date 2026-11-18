@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**154 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**153 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 94 | 17 |
+| [Science & Research](#science--research) | 93 | 17 |
 | [Healthcare](#healthcare) | 60 | 11 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>94 open roles</sub>
+<sub>93 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -107,7 +107,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Nutrien** | Retail Field – Agronomy Assistant, Intern | Vauxhall, AB | Summer 2027<br><sub>4 months</sub> | Sep 17 | [Apply ↗](https://coawp.com/go/f6d33061-b7c5-4380-895c-b8e9e1233725?from=github-science-health) |
 | **SGS** | Laboratory Technician – Extractive Metallurgy, Co-op | Ontario | 8, 12 or 16 months | Sep 16 | [Apply ↗](https://coawp.com/go/cf5bc7cc-7575-4c85-b157-881d086ca220?from=github-science-health) |
 | **Canadian Natural Resources** | Geology – Mining, Intern | Calgary, AB | Winter, Summer, Fall 2027<br><sub>4 or 8 months</sub> | Sep 16 | [Apply ↗](https://coawp.com/go/94cb15c7-2bca-4a13-9baf-961ed13eadd8?from=github-science-health) |
-| **MNP** | Agronomy Services, Intern | Saskatoon, SK<br>Regina, SK<br><sub>+2 more</sub> | Summer 2027<br><sub>4 months</sub> | Sep 15 | [Apply ↗](https://coawp.com/go/510db9c8-3519-4759-ae73-b01367a72969?from=github-science-health) |
 | **Syngenta** | Crop Protection Development Assistant, Intern | Portage la Prairie, MB | Summer 2027<br><sub>4 months</sub> | Sep 15 | [Apply ↗](https://coawp.com/go/ab346d6a-9c62-4620-9cb7-077aa2b04a8e?from=github-science-health) |
 | **Dahrouge Geological Consulting** | Geologist-in-Training, Intern | Montréal, QC | — | Sep 8 | [Apply ↗](https://coawp.com/go/8f82efb9-7160-43a4-8486-5501c354cbc9?from=github-science-health) |
 | **Syngenta** | Seed Agronomic, Intern | Toronto, ON | Winter 2027<br><sub>5 months</sub> | Sep 8 | [Apply ↗](https://coawp.com/go/71328052-9e38-4367-b63a-42952d24273c?from=github-science-health) |
