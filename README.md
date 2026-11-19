@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 90 | 12 |
-| [Healthcare](#healthcare) | 59 | 7 |
+| [Science & Research](#science--research) | 89 | 12 |
+| [Healthcare](#healthcare) | 60 | 8 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>90 open roles</sub>
+<sub>89 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -82,8 +82,8 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Thermo Fisher** | Process Engineering, Co-op | Mississauga, ON | — | Oct 18 | [Apply ↗](https://coawp.com/go/06e1f84e-405d-48eb-9bf9-917a0a9ed2cb?from=github-science-health) |
 | **NexGold Mining (Treasury Metals)** | Environmental Technician, Co-op | Ontario | Winter 2027<br><sub>4 months</sub> | Oct 17 | [Apply ↗](https://coawp.com/go/59c2d3bf-b618-4d5a-a221-0080a3a6135a?from=github-science-health) |
 | **ARC Resources** | Geoscience, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 16 | [Apply ↗](https://coawp.com/go/c7ac04f9-af26-41f1-8f31-f65a51802d80?from=github-science-health) |
-| **Bombardier** | Industrial Hygiene Technician, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/e39f00ae-5f0b-4b26-95ed-6210c6cdce49?from=github-science-health) |
-| ↳ | Industrial Hygiene Technician, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/e3c2bb39-09b0-4d21-94bd-8bff6319af8c?from=github-science-health) |
+| **Bombardier** | Industrial Hygiene Technician, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/e3c2bb39-09b0-4d21-94bd-8bff6319af8c?from=github-science-health) |
+| ↳ | Industrial Hygiene Technician, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/e39f00ae-5f0b-4b26-95ed-6210c6cdce49?from=github-science-health) |
 | **Thermo Fisher** | Lab Execution Systems, Co-op | Mississauga, ON | 9 or 12 months | Oct 15 | [Apply ↗](https://coawp.com/go/23bcbadf-b7a0-47f2-ac4c-c69a8be7e23f?from=github-science-health) |
 | **GE Aerospace** | Metallurgy, Student | Bromont, QC | — | Oct 7 | [Apply ↗](https://coawp.com/go/c6f3f048-8d5b-467e-a1c5-44611b8da958?from=github-science-health) |
 | **SSR Mining** | Geology, Co-op | Saskatoon, SK | — | Oct 7 | [Apply ↗](https://coawp.com/go/86256dfc-8681-4eb9-876d-2ac9017ae3aa?from=github-science-health) |
@@ -107,7 +107,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Canadian Natural Resources** | Geology – Mining, Intern | Calgary, AB | Winter, Summer, Fall 2027<br><sub>4 or 8 months</sub> | Sep 16 | [Apply ↗](https://coawp.com/go/94cb15c7-2bca-4a13-9baf-961ed13eadd8?from=github-science-health) |
 | **Dahrouge Geological Consulting** | Geologist-in-Training, Intern | Montréal, QC | — | Sep 8 | [Apply ↗](https://coawp.com/go/8f82efb9-7160-43a4-8486-5501c354cbc9?from=github-science-health) |
 | **Syngenta** | Seed Agronomic, Intern | Toronto, ON | Winter 2027<br><sub>5 months</sub> | Sep 8 | [Apply ↗](https://coawp.com/go/71328052-9e38-4367-b63a-42952d24273c?from=github-science-health) |
-| **Canadian Natural Resources** | Geology – Abandonments, Intern | Calgary, AB | Winter 2027<br><sub>8 months</sub> | Sep 1 | [Apply ↗](https://coawp.com/go/5daf5330-c5cf-44d4-ba54-c0c4bcc38e2f?from=github-science-health) |
 | **West Fraser** | Forestry, Intern | Alberta<br>Chetwynd, BC<br><sub>+7 more</sub> | Summer 2027<br><sub>4, 8 or 12 months</sub> | Aug 19 | [Apply ↗](https://coawp.com/go/3377bd0d-f279-4d99-affd-9d01a7418858?from=github-science-health) |
 | **Stella-Jones** | Forestry Student, Intern | Salmon Arm, BC | Summer 2027<br><sub>4 months</sub> | Aug 18 | [Apply ↗](https://coawp.com/go/127a8985-5280-4bf8-bd04-8ce633d70751?from=github-science-health) |
 | **Canadian Natural Resources** | Environmental – Aquatic & Wildlife, Intern | Fort McMurray, AB | Summer 2027<br><sub>8 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/9a1863d5-f429-44d1-a85c-b245dd0925b9?from=github-science-health) |
@@ -117,11 +116,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>59 open roles</sub>
+<sub>60 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **St. Joseph's Healthcare Hamilton** | Clinical Extern – Acute MH, Intern | Hamilton, ON | 6 months | Nov 18 | [Apply ↗](https://coawp.com/go/6f362357-9239-4385-9f6b-82e6feb63eff?from=github-science-health) |
+| **Walmart** | Retail Pharmacy, Student | Coquitlam, BC | — | Nov 18 | [Apply ↗](https://coawp.com/go/2e8189e2-754c-4a65-bf0a-37aace6d9532?from=github-science-health) |
 | **Humber River Health** | Student Nurse Extern – Endoscopy | Ontario | Winter 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/0202ddcc-939f-4014-901a-0028b01b7a37?from=github-science-health) |
 | **City of St. Thomas** | Nursing, Intern | St. Thomas, ON | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/17fe8dc6-fb74-4286-8bf6-31c523226b82?from=github-science-health) |
 | **Humber River Health** | Student Nurse Extern | Toronto, ON | — | Nov 16 | [Apply ↗](https://coawp.com/go/fdfce61a-6b19-43a7-afe4-0d4205ff1275?from=github-science-health) |
