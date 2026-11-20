@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 86 | 15 |
-| [Healthcare](#healthcare) | 60 | 8 |
+| [Science & Research](#science--research) | 84 | 15 |
+| [Healthcare](#healthcare) | 62 | 10 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>86 open roles</sub>
+<sub>84 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -65,7 +65,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Skeena Resources** | Mine Geology, Co-op | Kitimat, BC | Winter 2027<br><sub>8 months</sub> | Oct 27 | [Apply ↗](https://coawp.com/go/2ca1c78a-7eaf-45b3-b0b7-4dfdae746c6c?from=github-science-health) |
 | **WSP** | Geochemistry Engineering, Intern | Rouyn-Noranda, QC | — | Oct 26 | [Apply ↗](https://coawp.com/go/a06a6f23-12de-48d4-81d1-468e50f0d186?from=github-science-health) |
 | **Fleetway** | Silviculture Assistant, Student | Chipman, NB | Summer 2027 | Oct 25 | [Apply ↗](https://coawp.com/go/a5664ca1-1296-4611-8fe9-e48df2712b1e?from=github-science-health) |
-| **AltaLink** | Summer Student – Environment | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/0b4b82d9-c260-427b-993d-9d419b38db57?from=github-science-health) |
 | **AtkinsRéalis** | Environment, Intern<br><sub>Requires French</sub> | Canada | — | Oct 25 | [Apply ↗](https://coawp.com/go/2d260eba-53ac-4d44-b551-fe830d6402e0?from=github-science-health) |
 | **Simplot** | Ag Innovation, Intern | Alberta | — | Oct 23 | [Apply ↗](https://coawp.com/go/b92fbc99-11fe-4fea-99b6-16509e1fa25e?from=github-science-health) |
 | ↳ | Agronomist, Intern | Saskatchewan | — | Oct 23 | [Apply ↗](https://coawp.com/go/f0f6569e-944d-4b91-b869-987bbad2a25b?from=github-science-health) |
@@ -73,7 +72,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Agronomist, Intern | Pincher Creek, AB | — | Oct 23 | [Apply ↗](https://coawp.com/go/fd1bd5b2-4f45-4aca-a9f5-f2afaf240ba2?from=github-science-health) |
 | ↳ | Agronomist, Intern | Saskatchewan | — | Oct 23 | [Apply ↗](https://coawp.com/go/e66f3775-aaf5-413c-968d-9c2cda8fb947?from=github-science-health) |
 | **Alberta Motor Association** | Architecture Research – Decision Modelling, Intern | Edmonton, AB | 12 months | Oct 22 | [Apply ↗](https://coawp.com/go/3b099c78-429e-478e-ba83-addbbc602596?from=github-science-health) |
-| ↳ | Architecture Research – Predictive Modelling, Intern | Edmonton, AB | 12 months | Oct 22 | [Apply ↗](https://coawp.com/go/7a142465-0315-4940-8c9b-39e2add45640?from=github-science-health) |
 | **Nutrien** | Laboratory, Intern | Saskatoon, SK | — | Oct 21 | [Apply ↗](https://coawp.com/go/ce3158ff-fb30-4536-8add-dcc71201cc8c?from=github-science-health) |
 | ↳ | Retail Field – Agronomy Assistant, Intern | Coaldale, AB | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/88928170-6442-4490-8037-3e8d5dbaf3f4?from=github-science-health) |
 | **Groupe Marcelle** | Research and Development, Intern | Mont-Royal, QC | 8 or 12 months | Oct 21 | [Apply ↗](https://coawp.com/go/ed79a7b3-1a3b-404e-93e1-5fb3733d3a80?from=github-science-health) |
@@ -113,10 +111,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>60 open roles</sub>
+<sub>62 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **McKesson** | COOP Intern | Mississauga, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/b0b0140e-88fc-48a4-9522-5831c1e38bb7?from=github-science-health) |
+| **Oak Valley Health** | Registered Practical Nurse – Inpatient Surgery, Student | Markham, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/58f8120b-557b-4be6-8cf1-21f5c05ed5de?from=github-science-health) |
 | **St. Joseph's Healthcare Hamilton** | Clinical Extern – Acute MH, Intern | Hamilton, ON | 6 months | Nov 18 | [Apply ↗](https://coawp.com/go/6f362357-9239-4385-9f6b-82e6feb63eff?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Saskatoon, SK | — | Nov 18 | [Apply ↗](https://coawp.com/go/315f25dc-81eb-4e88-a1aa-2e55de2d730e?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Coquitlam, BC | — | Nov 18 | [Apply ↗](https://coawp.com/go/2e8189e2-754c-4a65-bf0a-37aace6d9532?from=github-science-health) |
