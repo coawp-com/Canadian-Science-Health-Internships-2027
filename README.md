@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**145 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**141 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 83 | 14 |
-| [Healthcare](#healthcare) | 62 | 11 |
+| [Healthcare](#healthcare) | 58 | 11 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -110,7 +110,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>62 open roles</sub>
+<sub>58 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -126,10 +126,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Oak Valley Health** | Diet Office Clerk (CUPE) – Food Services, Student | Markham, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/17b033f3-5515-466e-ae8a-908035423e7b?from=github-science-health) |
 | **Walmart** | Retail Pharmacy, Student | Oakville, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/3fcb6e9b-74b4-4425-9675-fcc4d2e1117d?from=github-science-health) |
 | **Federated Co-op Retail** | Pharmacy, Co-op | Winnipeg, MB<br>Niverville, MB | — | Nov 13 | [Apply ↗](https://coawp.com/go/5a542690-af2d-4d06-8647-6793dc77aa04?from=github-science-health) |
-| **Oak Valley Health** | Clinical Extern – Inpatient Med/​Surg, Intern | Uxbridge, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/d9bd7d77-b2c5-4deb-b22d-3699b61e09c5?from=github-science-health) |
-| ↳ | Registered Practical Nurse – Admissions Assessment Unit, Student | Markham, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/177d24e7-b549-462e-b609-ec0eed0e1b6e?from=github-science-health) |
-| ↳ | Registered Practical Nurse – Post Partum, Student | Markham, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/7182368b-6040-4a95-bc96-2e0131217ccb?from=github-science-health) |
-| ↳ | Surgical System Technician – MDRD, Student | Markham, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/15b624bc-d8dc-4c83-b9e9-e515f1d93f2e?from=github-science-health) |
+| **Oak Valley Health** | Registered Practical Nurse – Post Partum, Student | Markham, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/7182368b-6040-4a95-bc96-2e0131217ccb?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Canada | — | Nov 12 | [Apply ↗](https://coawp.com/go/e6727299-678f-4e7d-90a6-55dffeeaa6d4?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Port Coquitlam, BC | — | Nov 12 | [Apply ↗](https://coawp.com/go/8355cff5-d091-4423-8cdb-fbad0bedc00d?from=github-science-health) |
 | ↳ | Optician, Intern | Canada | — | Nov 11 | [Apply ↗](https://coawp.com/go/dad92956-0356-4f3d-9257-b54515c0dd8f?from=github-science-health) |
@@ -139,8 +136,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Retail Pharmacy, Student | Ontario | — | Nov 8 | [Apply ↗](https://coawp.com/go/87cd03b7-7863-4981-8d10-61e3a59a9652?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Burlington, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/c9fb4314-cfa1-4dc1-ad99-8ad58bbf54a1?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Niagara Falls, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/147a0a44-42a4-4222-82a9-2f58c8f348bc?from=github-science-health) |
-| **Women's College Hospital** | Clinical Extern – Professional Practice, Intern | Toronto, ON | — | Nov 6 | [Apply ↗](https://coawp.com/go/90de992b-b407-4c48-a2b2-e5f00d4d214e?from=github-science-health) |
-| **Walmart** | Pharmacy, Intern | Saskatoon, SK | — | Nov 5 | [Apply ↗](https://coawp.com/go/e46e3613-fd96-487e-a989-a13cadd6e960?from=github-science-health) |
+| ↳ | Pharmacy, Intern | Saskatoon, SK | — | Nov 5 | [Apply ↗](https://coawp.com/go/e46e3613-fd96-487e-a989-a13cadd6e960?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Canada | — | Nov 5 | [Apply ↗](https://coawp.com/go/04fba49a-05b6-465d-82c7-3af2a2635fca?from=github-science-health) |
 | **Oak Valley Health** | Personal Support Assistant – Medicine, Student | Markham, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/de9c4960-7c5d-4392-8f49-18f6e978b42d?from=github-science-health) |
 | **Eli Lilly Canada** | Reimbursement & Market Access, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/289ba5ff-e49b-40bc-af33-0521599b2d84?from=github-science-health) |
