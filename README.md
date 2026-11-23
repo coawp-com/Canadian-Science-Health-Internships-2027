@@ -11,8 +11,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 82 | 9 |
-| [Healthcare](#healthcare) | 57 | 8 |
+| [Science & Research](#science--research) | 82 | 10 |
+| [Healthcare](#healthcare) | 57 | 9 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -22,6 +22,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Alcoa** | Technologist – LAB/​ENV/​Energy Sector, Intern | Quebec | Winter 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/57daaf0a-a8af-43c5-b7c6-768b25cd4982?from=github-science-health) |
 | **BASF** | Agronomic Excellence Summer Associate | Strathmore, AB | Summer 2027<br><sub>4 or 6 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/74af9de7-ac4e-45fe-ada4-63609a4d1545?from=github-science-health) |
 | **Nutrien** | Geology, Co-op | Saskatoon, SK | 16 months | Nov 19 | [Apply ↗](https://coawp.com/go/4f2458ad-bb10-4647-b6ef-30119132a43f?from=github-science-health) |
 | ↳ | Geophysics Support, Co-op | Saskatoon, SK | — | Nov 19 | [Apply ↗](https://coawp.com/go/37d8f946-4293-47b8-b1cf-399cde6315db?from=github-science-health) |
@@ -78,7 +79,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **NexGold Mining (Treasury Metals)** | Environmental Technician, Co-op | Ontario | Winter 2027<br><sub>4 months</sub> | Oct 17 | [Apply ↗](https://coawp.com/go/59c2d3bf-b618-4d5a-a221-0080a3a6135a?from=github-science-health) |
 | **ARC Resources** | Geoscience, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 16 | [Apply ↗](https://coawp.com/go/c7ac04f9-af26-41f1-8f31-f65a51802d80?from=github-science-health) |
 | **Thermo Fisher** | Lab Execution Systems, Co-op | Mississauga, ON | 9 or 12 months | Oct 15 | [Apply ↗](https://coawp.com/go/23bcbadf-b7a0-47f2-ac4c-c69a8be7e23f?from=github-science-health) |
-| **GE Aerospace** | Metallurgy, Student | Bromont, QC | — | Oct 7 | [Apply ↗](https://coawp.com/go/c6f3f048-8d5b-467e-a1c5-44611b8da958?from=github-science-health) |
 | **SSR Mining** | Geology, Co-op | Saskatoon, SK | — | Oct 7 | [Apply ↗](https://coawp.com/go/86256dfc-8681-4eb9-876d-2ac9017ae3aa?from=github-science-health) |
 | **Nutrien** | Retail Field – Agronomy Assistant, Intern | Saskatoon, SK | Summer 2027<br><sub>4 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/95d1b16f-ec9b-47eb-a866-9d5f2a13cdd2?from=github-science-health) |
 | **Veolia** | Laboratory, Co-op | Sarnia, ON | Summer 2027<br><sub>8 or 12 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/86b195ee-d0a0-473e-84a3-322aaedb1218?from=github-science-health) |
@@ -114,6 +114,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 22 | [Apply ↗](https://coawp.com/go/f51ff416-e8c8-4a43-9f86-93fc86e764a4?from=github-science-health) |
+| ↳ | Retail Pharmacy, Student | Canada | — | Nov 22 | [Apply ↗](https://coawp.com/go/9e6eecdf-e618-4d93-9e04-d6ba6cc496bb?from=github-science-health) |
 | **McKesson** | COOP Intern | Mississauga, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/b0b0140e-88fc-48a4-9522-5831c1e38bb7?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Inpatient Surgery, Student | Markham, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/58f8120b-557b-4be6-8cf1-21f5c05ed5de?from=github-science-health) |
 | ↳ | Registered Practical Nurse – Resource Team, Student | Markham, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/6ebe1a99-8240-4b2f-93b7-5263720d04c5?from=github-science-health) |
@@ -150,7 +151,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Humber River Health** | Student Nurse Extern – Critical Care | Toronto, ON | — | Oct 22 | [Apply ↗](https://coawp.com/go/482d438f-faa1-4c0f-85b2-57cdda387314?from=github-science-health) |
 | **Providence Health Care** | Employed Student Nurse /​ Employed Student Psychiatric Nurse | Vancouver, BC | — | Oct 15 | [Apply ↗](https://coawp.com/go/cb9f714d-8b46-4138-ab43-1d04a2a877d6?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Moncton, NB | — | Oct 14 | [Apply ↗](https://coawp.com/go/bf1f339e-e161-46c1-9c9b-0fccd461ef7d?from=github-science-health) |
-| ↳ | Pharmacy, Intern | Canada | — | Oct 14 | [Apply ↗](https://coawp.com/go/ee8ee677-01db-4060-b8d9-6e231acb53c8?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Medicine, Student | Markham, ON | — | Oct 12 | [Apply ↗](https://coawp.com/go/0f72831a-3b74-4079-b3d6-d704c79e518b?from=github-science-health) |
 | **Humber River Health** | Student Nurse Extern – Inpatient Surgery | Toronto, ON | — | Oct 5 | [Apply ↗](https://coawp.com/go/5fac6961-1681-4d88-9c1a-fa25e11ccf75?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Day Surgery Unit, Student | Markham, ON | — | Oct 4 | [Apply ↗](https://coawp.com/go/f442c6c5-6c61-4cb5-9086-9fb25af6b5d1?from=github-science-health) |
