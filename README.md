@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 82 | 9 |
-| [Healthcare](#healthcare) | 57 | 7 |
+| [Healthcare](#healthcare) | 57 | 8 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -22,10 +22,10 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **BASF** | Agronomic Excellence Summer Associate | Strathmore, AB | Summer 2027<br><sub>4 or 6 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/74af9de7-ac4e-45fe-ada4-63609a4d1545?from=github-science-health) |
 | **Nutrien** | Geology, Co-op | Saskatoon, SK | 16 months | Nov 19 | [Apply ↗](https://coawp.com/go/4f2458ad-bb10-4647-b6ef-30119132a43f?from=github-science-health) |
 | ↳ | Geophysics Support, Co-op | Saskatoon, SK | — | Nov 19 | [Apply ↗](https://coawp.com/go/37d8f946-4293-47b8-b1cf-399cde6315db?from=github-science-health) |
-| **BASF** | Agronomic Excellence Summer Associate | Strathmore, AB | Summer 2027<br><sub>4 or 6 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/74af9de7-ac4e-45fe-ada4-63609a4d1545?from=github-science-health) |
-| ↳ | Canola Breeding Summer Associate | Regina, SK | Summer 2027<br><sub>4 or 6 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/f0bfbad1-ffac-4625-9412-d7f917cdd9f3?from=github-science-health) |
+| **BASF** | Canola Breeding Summer Associate | Regina, SK | Summer 2027<br><sub>4 or 6 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/f0bfbad1-ffac-4625-9412-d7f917cdd9f3?from=github-science-health) |
 | ↳ | Canola Breeding Summer Associate | Saskatoon, SK | Summer 2027<br><sub>4 or 6 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/a0105343-0521-4978-b27b-1cc29903e34a?from=github-science-health) |
 | ↳ | Canola Breeding Summer Associate | Headingley, MB | Summer 2027<br><sub>4 or 8 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/50c87e6c-2e10-43f6-bad4-5fdf78cc1b80?from=github-science-health) |
 | ↳ | Canola Parent Seed Summer Associate | Kamloops, BC | Summer 2027<br><sub>4 or 6 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/5760e85f-ccc8-4260-8b06-80df7f3af265?from=github-science-health) |
@@ -113,6 +113,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 22 | [Apply ↗](https://coawp.com/go/f51ff416-e8c8-4a43-9f86-93fc86e764a4?from=github-science-health) |
 | **McKesson** | COOP Intern | Mississauga, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/b0b0140e-88fc-48a4-9522-5831c1e38bb7?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Inpatient Surgery, Student | Markham, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/58f8120b-557b-4be6-8cf1-21f5c05ed5de?from=github-science-health) |
 | ↳ | Registered Practical Nurse – Resource Team, Student | Markham, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/6ebe1a99-8240-4b2f-93b7-5263720d04c5?from=github-science-health) |
@@ -131,7 +132,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Optician, Intern | Canada | — | Nov 11 | [Apply ↗](https://coawp.com/go/dad92956-0356-4f3d-9257-b54515c0dd8f?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Kitchener, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/6c52b0a6-272c-4884-8832-1e095b4d6a80?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Waterdown, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/162a1b88-d1aa-4b16-8e8a-054445f94447?from=github-science-health) |
-| ↳ | Retail Pharmacy, Student | Canada | — | Nov 8 | [Apply ↗](https://coawp.com/go/ef889eb4-e751-41e9-9b8a-33252d39605b?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Ontario | — | Nov 8 | [Apply ↗](https://coawp.com/go/87cd03b7-7863-4981-8d10-61e3a59a9652?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Burlington, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/c9fb4314-cfa1-4dc1-ad99-8ad58bbf54a1?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Niagara Falls, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/147a0a44-42a4-4222-82a9-2f58c8f348bc?from=github-science-health) |
