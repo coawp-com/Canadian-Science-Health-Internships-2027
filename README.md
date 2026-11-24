@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**136 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**135 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 79 | 5 |
-| [Healthcare](#healthcare) | 57 | 10 |
+| [Healthcare](#healthcare) | 56 | 10 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -106,7 +106,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>57 open roles</sub>
+<sub>56 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -161,7 +161,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Humber River Health** | Nurse Extern – Critical Care, Intern | Toronto, ON | — | Aug 27 | [Apply ↗](https://coawp.com/go/8379afe5-a613-479b-a5fd-a7441306e8f4?from=github-science-health) |
 | ↳ | Student Nurse Extern | Toronto, ON | — | Aug 18 | [Apply ↗](https://coawp.com/go/9504fdd1-c091-4ba9-8f0f-ae917ec40917?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Plastics/​Minor Surgery, Student | Markham, ON | — | Aug 6 | [Apply ↗](https://coawp.com/go/c1aafbd3-e09a-4907-8677-38640e54ce43?from=github-science-health) |
-| **St. Joseph's Healthcare Hamilton** | Clinical Extern, Intern | Hamilton, ON | 9 months | Jul 29 | [Apply ↗](https://coawp.com/go/f4d2f28c-e084-499d-a456-3251a39320bc?from=github-science-health) |
 | **Walmart** | Retail Pharmacy, Student | Canada<br>Bedford, NS | — | Jul 21 | [Apply ↗](https://coawp.com/go/957509fd-7df3-4128-92e0-03a7b8109b2b?from=github-science-health) |
 | ↳ | Pharmacy, Intern | Marystown, NL | — | Jul 2 | [Apply ↗](https://coawp.com/go/197b5b39-07c3-4daf-b6c5-33d3bf02f632?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Emergency, Student | Markham, ON | Summer 2027 | Jun 18 | [Apply ↗](https://coawp.com/go/87d2dd6f-6434-471c-9f48-7d1627daa153?from=github-science-health) |
