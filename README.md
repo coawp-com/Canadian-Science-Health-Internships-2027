@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**139 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**137 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 81 | 11 |
+| [Science & Research](#science--research) | 79 | 11 |
 | [Healthcare](#healthcare) | 58 | 10 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>81 open roles</sub>
+<sub>79 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -38,7 +38,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Fleetway** | Geological, Intern | Saint John, NB | — | Nov 16 | [Apply ↗](https://coawp.com/go/2728246d-14cf-4c53-ba65-f0e617eb0794?from=github-science-health) |
 | **J.D. Irving** | Geological, Intern | Saint John, NB | — | Nov 16 | [Apply ↗](https://coawp.com/go/43cd5be4-d93a-4ca1-86c7-257e47f1efd9?from=github-science-health) |
 | **Saputo** | Dairy Specialist, Intern | Port Coquitlam, BC | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/310ba023-9a02-4392-98bb-b1ad938f0b7a?from=github-science-health) |
-| **BASF** | Technical Agronomy, Intern | Lethbridge, AB | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/28b8708c-43fa-48eb-8c23-4097ae8f5f65?from=github-science-health) |
 | **Nutrien** | Retail Field – Agronomy Assistant, Intern | Manitoba | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/64e5878c-d1a9-4186-a7ef-1525e972b432?from=github-science-health) |
 | **AGRIS Co-operative (Pride Seeds)** | Sales Agronomist, Intern | Ontario | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/34cee581-7f4d-4398-bae7-dfe55abd9143?from=github-science-health) |
 | **Geosyntec Consultants** | Laboratory, Intern | Guelph, ON | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/be367685-b728-4557-909a-1122797c7eb4?from=github-science-health) |
@@ -69,7 +68,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Agronomist, Intern | Saskatchewan | — | Oct 23 | [Apply ↗](https://coawp.com/go/8e252c3a-f92a-4740-ba69-a23049de343a?from=github-science-health) |
 | ↳ | Agronomist, Intern | Pincher Creek, AB | — | Oct 23 | [Apply ↗](https://coawp.com/go/fd1bd5b2-4f45-4aca-a9f5-f2afaf240ba2?from=github-science-health) |
 | ↳ | Agronomist, Intern | Saskatchewan | — | Oct 23 | [Apply ↗](https://coawp.com/go/e66f3775-aaf5-413c-968d-9c2cda8fb947?from=github-science-health) |
-| **Alberta Motor Association** | Architecture Research – Decision Modelling, Intern | Edmonton, AB | 12 months | Oct 22 | [Apply ↗](https://coawp.com/go/3b099c78-429e-478e-ba83-addbbc602596?from=github-science-health) |
 | **Nutrien** | Laboratory, Intern | Saskatoon, SK | — | Oct 21 | [Apply ↗](https://coawp.com/go/ce3158ff-fb30-4536-8add-dcc71201cc8c?from=github-science-health) |
 | ↳ | Retail Field – Agronomy Assistant, Intern | Coaldale, AB | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/88928170-6442-4490-8037-3e8d5dbaf3f4?from=github-science-health) |
 | **Groupe Marcelle** | Research and Development, Intern | Mont-Royal, QC | 8 or 12 months | Oct 21 | [Apply ↗](https://coawp.com/go/ed79a7b3-1a3b-404e-93e1-5fb3733d3a80?from=github-science-health) |
