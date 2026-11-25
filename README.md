@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**137 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**136 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,14 +11,14 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 80 | 6 |
+| [Science & Research](#science--research) | 79 | 6 |
 | [Healthcare](#healthcare) | 57 | 12 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>80 open roles</sub>
+<sub>79 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -78,7 +78,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **ARC Resources** | Geoscience, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 16 | [Apply ↗](https://coawp.com/go/c7ac04f9-af26-41f1-8f31-f65a51802d80?from=github-science-health) |
 | **Thermo Fisher** | Lab Execution Systems, Co-op | Mississauga, ON | 9 or 12 months | Oct 15 | [Apply ↗](https://coawp.com/go/23bcbadf-b7a0-47f2-ac4c-c69a8be7e23f?from=github-science-health) |
 | **SSR Mining** | Geology, Co-op | Saskatoon, SK | — | Oct 7 | [Apply ↗](https://coawp.com/go/86256dfc-8681-4eb9-876d-2ac9017ae3aa?from=github-science-health) |
-| **Nutrien** | Retail Field – Agronomy Assistant, Intern | Saskatoon, SK | Summer 2027<br><sub>4 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/95d1b16f-ec9b-47eb-a866-9d5f2a13cdd2?from=github-science-health) |
 | **Veolia** | Laboratory, Co-op | Sarnia, ON | Summer 2027<br><sub>8 or 12 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/86b195ee-d0a0-473e-84a3-322aaedb1218?from=github-science-health) |
 | **Elk Valley Resources** | Occupational Health & Hygiene, Co-op | Elkford, BC | Winter 2027<br><sub>4, 8 or 12 months</sub> | Oct 5 | [Apply ↗](https://coawp.com/go/d60f2272-338a-4edb-aa8f-1a189416d9dc?from=github-science-health) |
 | **Syngenta** | Technical Field, Intern | Winnipeg, MB | Summer 2027<br><sub>4 or 8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/6bf63eec-8ee3-48b1-840c-79fd6cec32e1?from=github-science-health) |
