@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**136 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**137 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 78 | 5 |
-| [Healthcare](#healthcare) | 58 | 10 |
+| [Healthcare](#healthcare) | 59 | 10 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -105,7 +105,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>58 open roles</sub>
+<sub>59 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -138,6 +138,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Retail Pharmacy, Student | Niagara Falls, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/147a0a44-42a4-4222-82a9-2f58c8f348bc?from=github-science-health) |
 | ↳ | Pharmacy, Intern | Saskatoon, SK | — | Nov 5 | [Apply ↗](https://coawp.com/go/e46e3613-fd96-487e-a989-a13cadd6e960?from=github-science-health) |
 | **Oak Valley Health** | Personal Support Assistant – Medicine, Student | Markham, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/de9c4960-7c5d-4392-8f49-18f6e978b42d?from=github-science-health) |
+| ↳ | Registered Practical Nurse – Medicine Cardiology, Student | Markham, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/1ae4e18d-5b09-4ad1-89cb-177a7941f649?from=github-science-health) |
 | **Eli Lilly Canada** | Reimbursement & Market Access, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/289ba5ff-e49b-40bc-af33-0521599b2d84?from=github-science-health) |
 | **Fraser Health** | Employed Student Nurse | Surrey, BC | — | Nov 2 | [Apply ↗](https://coawp.com/go/272a25a8-af0d-41cb-baa5-ec795fc20555?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Medicine Unit, Student | Markham, ON | — | Nov 1 | [Apply ↗](https://coawp.com/go/06830c58-99d2-409f-97be-278be9b5139c?from=github-science-health) |
