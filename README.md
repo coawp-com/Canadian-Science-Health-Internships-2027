@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**136 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**138 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,17 +11,18 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Science & Research](#science--research) | 78 | 6 |
-| [Healthcare](#healthcare) | 58 | 10 |
+| [Science & Research](#science--research) | 79 | 7 |
+| [Healthcare](#healthcare) | 59 | 11 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
 ## Science & Research
 
-<sub>78 open roles</sub>
+<sub>79 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **WSP** | Engineering Ecology, Intern<br><sub>Requires French</sub> | Montréal, QC<br>Sherbrooke, QC<br><sub>+1 more</sub> | — | Nov 27 | [Apply ↗](https://coawp.com/go/898d81fb-202a-4964-b598-8e10b185ea30?from=github-science-health) |
 | **SGS** | Laboratory Technician, Intern | Québec, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/e7d8d270-aa4d-4d2c-b3fd-5fc6b49764e6?from=github-science-health) |
 | **Intertek Canada** | Grain Grader, Student | Winnipeg, MB | — | Nov 24 | [Apply ↗](https://coawp.com/go/7f8d77e3-9ba7-4f0a-871a-480c65e0baeb?from=github-science-health) |
 | **Forsite Consultants** | Forestry – Timber Development and Silviculture, Intern | British Columbia<br><sub>Remote</sub> | Summer 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/73c6cbbb-75d7-4f66-9c27-172fdb23058f?from=github-science-health) |
@@ -105,10 +106,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>58 open roles</sub>
+<sub>59 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 26 | [Apply ↗](https://coawp.com/go/21ebe7aa-d78d-4560-a4fb-fd23d0781efa?from=github-science-health) |
 | **Merck** | Medical Information Specialty Residency, Intern<br><sub>Requires French</sub> | Kirkland, QC<br><sub>Hybrid</sub> | 12 months | Nov 25 | [Apply ↗](https://coawp.com/go/3cb73866-222b-4213-881a-c407d6d9628d?from=github-science-health) |
 | **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 25 | [Apply ↗](https://coawp.com/go/e8588221-5b5d-47f2-b45b-252b85176ed3?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Resource Team, Student | Markham, ON | — | Nov 24 | [Apply ↗](https://coawp.com/go/ed092a00-4a19-4e7c-b0ae-a47c1c5a286c?from=github-science-health) |
