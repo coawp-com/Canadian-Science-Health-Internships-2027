@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 78 | 6 |
-| [Healthcare](#healthcare) | 58 | 11 |
+| [Healthcare](#healthcare) | 58 | 10 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -111,7 +111,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 |:--|:--|:--|:--|:--|:--|
 | **Merck** | Medical Information Specialty Residency, Intern<br><sub>Requires French</sub> | Kirkland, QC<br><sub>Hybrid</sub> | 12 months | Nov 25 | [Apply ↗](https://coawp.com/go/3cb73866-222b-4213-881a-c407d6d9628d?from=github-science-health) |
 | **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 25 | [Apply ↗](https://coawp.com/go/e8588221-5b5d-47f2-b45b-252b85176ed3?from=github-science-health) |
-| ↳ | Retail Pharmacy, Student | Canada | — | Nov 25 | [Apply ↗](https://coawp.com/go/6691b9ab-3c39-43bb-9261-0010c2a6f759?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Resource Team, Student | Markham, ON | — | Nov 24 | [Apply ↗](https://coawp.com/go/ed092a00-4a19-4e7c-b0ae-a47c1c5a286c?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Canada | — | Nov 24 | [Apply ↗](https://coawp.com/go/35e1c5bf-05ec-4f11-bec8-e7bf4b4502dc?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Brampton, ON | — | Nov 24 | [Apply ↗](https://coawp.com/go/178b31ef-32ad-4553-b16b-fae3806047ab?from=github-science-health) |
@@ -147,6 +146,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Retail Pharmacy, Student | Bolton, ON | — | Nov 1 | [Apply ↗](https://coawp.com/go/0800a590-8fd2-43b6-9109-891e54363a78?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Canada | — | Nov 1 | [Apply ↗](https://coawp.com/go/1aab6631-9123-40a8-940b-2a3405b6c18b?from=github-science-health) |
 | **Sobeys** | Pharmacy, Intern | Winnipeg, MB | — | Oct 27 | [Apply ↗](https://coawp.com/go/6e8cb9d2-818f-44c8-8bfc-d524f6141b6d?from=github-science-health) |
+| **Alcoa** | Industrial Hygiene, Intern | Baie-Comeau, QC | Winter 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/51c57090-0509-44ff-8733-d97f345cad4b?from=github-science-health) |
 | **Humber River Health** | Student Nurse Extern – Critical Care | Toronto, ON | — | Oct 22 | [Apply ↗](https://coawp.com/go/482d438f-faa1-4c0f-85b2-57cdda387314?from=github-science-health) |
 | **Providence Health Care** | Employed Student Nurse /​ Employed Student Psychiatric Nurse | Vancouver, BC | — | Oct 15 | [Apply ↗](https://coawp.com/go/cb9f714d-8b46-4138-ab43-1d04a2a877d6?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Moncton, NB | — | Oct 14 | [Apply ↗](https://coawp.com/go/bf1f339e-e161-46c1-9c9b-0fccd461ef7d?from=github-science-health) |
