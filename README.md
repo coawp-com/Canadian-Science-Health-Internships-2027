@@ -2,7 +2,7 @@
 
 # Canadian Science & Health Internships 2027
 
-**142 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**141 open internships, co-ops and student jobs** in lab and field science, research and healthcare across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Science & Research](#science--research) | 80 | 8 |
-| [Healthcare](#healthcare) | 62 | 13 |
+| [Healthcare](#healthcare) | 61 | 13 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027) and [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027).
 
@@ -107,7 +107,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Healthcare
 
-<sub>62 open roles</sub>
+<sub>61 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -125,7 +125,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Walmart** | Pharmacy, Intern | Canada | — | Nov 22 | [Apply ↗](https://coawp.com/go/d08932d5-bf56-429a-8905-dc6afd5bdd2c?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Canada | — | Nov 22 | [Apply ↗](https://coawp.com/go/f51ff416-e8c8-4a43-9f86-93fc86e764a4?from=github-science-health) |
 | **Oak Valley Health** | Registered Practical Nurse – Inpatient Surgery, Student | Markham, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/58f8120b-557b-4be6-8cf1-21f5c05ed5de?from=github-science-health) |
-| ↳ | Registered Practical Nurse – Resource Team, Student | Markham, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/6ebe1a99-8240-4b2f-93b7-5263720d04c5?from=github-science-health) |
 | **Walmart** | Pharmacy, Intern | Saskatoon, SK | — | Nov 18 | [Apply ↗](https://coawp.com/go/315f25dc-81eb-4e88-a1aa-2e55de2d730e?from=github-science-health) |
 | ↳ | Retail Pharmacy, Student | Coquitlam, BC | — | Nov 18 | [Apply ↗](https://coawp.com/go/2e8189e2-754c-4a65-bf0a-37aace6d9532?from=github-science-health) |
 | **Humber River Health** | Student Nurse Extern – Endoscopy | Ontario | Winter 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/0202ddcc-939f-4014-901a-0028b01b7a37?from=github-science-health) |
